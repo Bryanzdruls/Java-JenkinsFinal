@@ -13,8 +13,9 @@ import java.util.List;
 public class RouterRest {
 
     public void ameThod(){
-
+        throw new UnsupportedOperationException("Not supported yet");
     }
+
     @GetMapping("/get-users")
     public List<User> getUsers(){
         List<User> users = new ArrayList<>();
