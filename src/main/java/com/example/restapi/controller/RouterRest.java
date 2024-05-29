@@ -12,6 +12,9 @@ import java.util.List;
 @RestController
 public class RouterRest {
 
+    public void ameThod(){
+
+    }
     @GetMapping("/get-users")
     public List<User> getUsers(){
         List<User> users = new ArrayList<>();
