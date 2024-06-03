@@ -13,7 +13,102 @@ import java.util.List;
 public class RouterRest {
 
     public void ameThod(){
-        throw new UnsupportedOperationException("Not supported yet");
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
+        if (true){
+            return;
+        }
     }
 
     @GetMapping("/get-users")
