@@ -1,3 +1,4 @@
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -8,7 +9,7 @@ class RestApiTests {
 
     @Test
     void contextLoads() {
-        Assert.hasText("chimbo","peludo");
+        Assertions.assertEquals(true,false);
     }
 
 }
