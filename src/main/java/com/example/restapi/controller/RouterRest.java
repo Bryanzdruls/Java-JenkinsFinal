@@ -16,6 +16,9 @@ public class RouterRest {
         throw new UnsupportedOperationException("Not supported yet");
     }
 
+    public void newMethod(){
+        throw new UnsupportedOperationException("Not supported yet");
+    }
     @GetMapping("/get-users")
     public List<User> getUsers(){
         List<User> users = new ArrayList<>();
